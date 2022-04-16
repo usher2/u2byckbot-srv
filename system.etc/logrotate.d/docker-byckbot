@@ -1,5 +1,5 @@
-/var/log/byckbot/info.log
-/var/log/byckbot/error.log
+/var/opt/logs-srv-by-ckbot/info.log
+/var/opt/logs-srv-by-ckbot/error.log
 {
         rotate 2
         daily
